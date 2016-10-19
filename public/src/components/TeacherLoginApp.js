@@ -5,7 +5,7 @@ class App extends Component {
     render() {
         return (
             <div>
-                <h3></h3>
+                <h1 className="text-center row">思沃特训营</h1>
             <TeacherLoginForm/>
             </div>
         )
