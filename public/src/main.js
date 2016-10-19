@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import {render} from "react-dom";
 import {Router, Route,hashHistory} from 'react-router';
-import App from "./components/App";
+import App from "./components/TeacherLoginApp";
 
 render(
 
