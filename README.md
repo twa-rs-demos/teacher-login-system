@@ -3,3 +3,4 @@
 * npm install
 * npm run webpack
 * npm start
+* 访问 localhost:3000
