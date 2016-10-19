@@ -12,4 +12,4 @@ class TeacherLogin extends React.Component{
         </div>
     }
 }
-render(<TeacherLogin/>, document.getElementById("content"));
+export default TeacherLogin;

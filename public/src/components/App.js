@@ -1,12 +1,12 @@
-import React, { Component } from "react";
+import React, {Component} from "react";
+import TeacherLoginApp from "./TeacherLoginApp"
 
 class App extends Component {
-  render() {
-    return (
-        <h1>思沃特训营</h1>
-    )
-  }
+    render() {
+        return (
+            <TeacherLoginApp/>
+        )
+    }
 }
 
 export default App;
-
